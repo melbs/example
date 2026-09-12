@@ -26,5 +26,5 @@ and
 
 *You don't have to use bold or italic on an entire word or phrase.*
 You can also use bold or italic on an entire sentence or for part of a word.
-For example, the acronym **HtmL** stands for
+For example, the acronym **HTML** stands for
 **H**yper **T**ext **M**arkup **L**anguage.

@@ -3,8 +3,7 @@ just fooling around to see things!
 
 and I'm going to add another line here. This is me exploring.
 
-The basics of Markdown
-======================
+The Basics of Markdown
 
 When we talk about Markdown, it's important to remember that Markdown was
 developed based on the de facto standards that people used when writing

@@ -15,3 +15,16 @@ This is a new paragraph! We know that because there is a blank line between
 the two paragraphs. 
 It doesn't matter if the lines of text are all the same length.
 Markdown will glue those lines together into a single pargraph.
+
+Formatting
+----------
+
+Basic formatting in Markdown includes
+*italic* text or _italic_ text
+and
+**bold** or __bold__ text.
+
+*You don't have to use bold or italic on an entire word or phrase.*
+You can also use bold or italic on an entire sentence or for part of a word.
+For example, the acronym **HtmL** stands for
+**H**yper **T**ext **M**arkup **L**anguage.

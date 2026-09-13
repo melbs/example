@@ -28,3 +28,24 @@ and
 You can also use bold or italic on an entire sentence or for part of a word.
 For example, the acronym **HTML** stands for
 **H**yper **T**ext **M**arkup **L**anguage.
+
+
+# Firetruck Engine Maintenance
+
+> [!WARNING]
+> Always disconnect the main battery prior to servicing the engine block to prevent electrical shock. 
+
+Follow these steps to access the primary manifold:
+
+1. Open the main exterior access panel.
+  - a. Disengage the left primary latch.
+  - b. Disengage the right primary latch.
+2. Inspect the internal coolant levels.
+3. Verify the pressure metrics.
+
+Coolant should only be checked when the engine has rested for at least two hours. [^1]
+
+The baseline pressure requirement can be calculated using the standard formula where Pressure equals Force divided by Area:
+$$P = F / A$$
+
+[^1]: This is based on standard environmental safety guidelines. 

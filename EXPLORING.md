@@ -52,3 +52,24 @@ P = F / A
 $$
 
 [^1]: This is based on standard environmental safety guidelines. 
+
+
+# Git Configuration Basics
+
+Before contributing to the repository, you must configure your local environment. As the official documentation states:
+
+> The first thing you should do when you install Git is to set your user name and email address.
+
+You will need the following tools installed:
+* Git Bash
+* A text editor like `VS Code`
+* A GitHub account
+
+> [!IMPORTANT]
+> Verify that your email address matches your GitHub account to ensure your commits are properly attributed.
+
+To set your global username, open your terminal and run this command:
+
+```bash git config --global user.name "Your Name"
+
+For more details, refer to the Git Setup Guide.

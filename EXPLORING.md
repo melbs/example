@@ -38,8 +38,8 @@ For example, the acronym **HTML** stands for
 Follow these steps to access the primary manifold:
 
 1. Open the main exterior access panel.
-   a. Disengage the left primary latch.
-   b. Disengage the right primary latch.
+   1. Disengage the left primary latch.
+   2. Disengage the right primary latch.
 2. Inspect the internal coolant levels.
 3. Verify the pressure metrics.
 

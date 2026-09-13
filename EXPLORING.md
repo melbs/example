@@ -72,5 +72,6 @@ To set your global username, open your terminal and run this command:
 
 ```bash
 git config --global user.name "Your Name"
+```
 
-For more details, refer to the Git Setup Guide.
+For more details, refer to the [Git Setup Guide](https://git-scm.com/book).

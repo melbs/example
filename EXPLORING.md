@@ -46,6 +46,7 @@ Follow these steps to access the primary manifold:
 Coolant should only be checked when the engine has rested for at least two hours. [^1]
 
 The baseline pressure requirement can be calculated using the standard formula where Pressure equals Force divided by Area:
+
 $$
 P = F / A
 $$

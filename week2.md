@@ -19,3 +19,8 @@ and modify DITA documents:
 * DITA
 * DITA Val
 
+You can also use a different character to start an unordered list. Many people
+would use a hyphen to make an unordered list in plain text:
+
+- DITA Map
+- DITA Val

@@ -24,3 +24,13 @@ would use a hyphen to make an unordered list in plain text:
 
 - DITA Map
 - DITA Val
+
+You can provide block quotes in a Markdown document. Regular quote marks are just
+for "inline" quotes. But if you need to quote something longer than about a line, 
+then you should use a block quote.
+
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+> incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+> exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+> dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+

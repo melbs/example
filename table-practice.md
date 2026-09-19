@@ -9,9 +9,9 @@ I don't have much on there yet.
 
 # Tables
 
-| Resource | Link |
-| :--------: | ---- |
-| Images | [click here](https://www.google.com) |
-| Docs | Go to the repo |
-| Assets | TBD |
+| Resource | Link                                 |
+| -------- | ------------------------------------ |
+| Images   | [click here](https://www.google.com) |
+| Docs     | Go to the repo                       |
+| Assets.  | TBD                                  |
 
